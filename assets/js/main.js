@@ -28,7 +28,7 @@ console.log(circle);
 /* exercise 3:
 declare a variable with a string value, then change it and print it.
 */
-let name = "Carlo";
-name = 'Marco';
+let name = "Carlo"; //string
+name = 'Marco'; //string
 
 console.log(name);
